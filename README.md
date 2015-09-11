@@ -4,7 +4,7 @@ Final Project of Principles of Procedimental Programming Subject.
 
 Description
 ------------------------------------
-This project was made to show everything that we have learned through the semester about Procedimental Programming, in this case using C. The main objective of this project was to create an Institution Room Management Software where students and professors could book rooms, add students to rooms, find usable rooms, etc...
+ - This project was made to show everything that we have learned through the semester about Procedimental Programming, in this case, using C. The theme of this project was to create an Institution Room Management Software, where students and professors could book rooms, add students to rooms, find usable rooms at the current time, etc...
 
 
 
